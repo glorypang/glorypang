@@ -59,7 +59,7 @@
 <h3 align="left"><b>📫 Contact 📫</b></h3>
 
 <p align="left">
-  a href="https://hits.seeyoufarm.com">
+  <a href="https://github.com/dys1128/dys1128">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdys1128%2Fhit-counter&count_bg=%2365F4EB&title_bg=%23AAA6A6&icon=&icon_color=%23D65858&title=hits&edge_flat=false" style="margin-left: 10px; vertical-align: middle;" />
   </a>
   <a href="https://www.instagram.com/glorypang_/">
@@ -79,7 +79,7 @@
 <!-- About Me + Hits 배지 (가로 정렬) -->
 <p align="left">
   <span style="font-size: 18px; font-weight: bold;">📌 About me 📌</span>
-  <
+  
 </p>
 <!-- Solved.ac 프로필 중앙 정렬 -->
 <p align="center">
