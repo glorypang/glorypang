@@ -71,7 +71,8 @@
 </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dys1128)](https://solved.ac/dys1128})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dys1128)](https://solved.ac/dys1128)
+
 
 
 
