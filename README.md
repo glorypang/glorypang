@@ -9,7 +9,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=transparent&count_private=true&custom_title=Glory's GitHub Stats&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=transparent&count_private=true&custom_title=Glory's GitHub Stats&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=8&theme=transparent&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF" />
 </p>
