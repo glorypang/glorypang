@@ -92,7 +92,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=transparent&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF" />
-</div>
+![Eungyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=transparent&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF)
 
