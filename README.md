@@ -15,7 +15,7 @@
 
 ---
 
-<h4 align="left"><b>✨ Tech Stack ✨</b></h4>
+<h3 align="left"><b>✨ Tech Stack ✨</b></h3>
 
 ### 🔹 Frontend
 <p align="left">
@@ -41,7 +41,7 @@
 </p>
 
 
-<h4 align="left"><b>🛠 Tools 🛠</b></h4>
+<h3 align="left"><b>🛠 Tools 🛠</b></h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -56,9 +56,12 @@
 
 ---
 
-<h4 align="left"><b>📫 Contact 📫</b></h4>
+<h3 align="left"><b>📫 Contact 📫</b></h3>
 
-<p align="leftr">
+<p align="left">
+  a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdys1128%2Fhit-counter&count_bg=%2365F4EB&title_bg=%23AAA6A6&icon=&icon_color=%23D65858&title=hits&edge_flat=false" style="margin-left: 10px; vertical-align: middle;" />
+  </a>
   <a href="https://www.instagram.com/glorypang_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
@@ -76,9 +79,7 @@
 <!-- About Me + Hits 배지 (가로 정렬) -->
 <p align="left">
   <span style="font-size: 18px; font-weight: bold;">📌 About me 📌</span>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdys1128%2Fhit-counter&count_bg=%2365F4EB&title_bg=%23AAA6A6&icon=&icon_color=%23D65858&title=hits&edge_flat=false" style="margin-left: 10px; vertical-align: middle;" />
-  </a>
+  <
 </p>
 <!-- Solved.ac 프로필 중앙 정렬 -->
 <p align="center">
