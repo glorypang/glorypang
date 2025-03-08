@@ -69,7 +69,7 @@
 
 ---
 
-<h4 align= "left>📌 About me 📌</h4>
+<h4 align= "left">📌 About me 📌</h4>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dys1128)](https://solved.ac/dys1128)
