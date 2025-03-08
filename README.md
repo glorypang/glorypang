@@ -2,13 +2,14 @@
 
 <!-- 타이틀 부분 -->
 <p align="center">
-  🌊 <strong>Double Major in Oceanography & Computer Science</strong><br>
+  🌊 Double Major in Oceanography & Computer Science<br>
   📖 Development & Growth Diary<br>
-  💻 Software Developer | AI & Data Enthusiast
+  💻 Software Developer
 </p>
 
 <!-- GitHub Stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=graywhite)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=graywhite" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=8&theme=transparent&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF" />
 </p>
