@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="left">✨ Tech Stack ✨</h3>
+<h3 align="left"><b>✨ Tech Stack ✨</b></h3>
 
 ### 🔹 Frontend
 <p align="left">
@@ -41,7 +41,7 @@
 </p>
 
 
-<h3 align="left">🛠 Tools 🛠</h3>
+<h3 align="left"><b>🛠 Tools 🛠</b></h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -56,7 +56,7 @@
 
 ---
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center"><b>📫 Contact 📫</b></h3>
 
 <p align="center">
   <a href="https://glorypang.tistory.com/">
