@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
   <a href="dys1128@naver.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=dys1128@naver.com&logoColor=white" />
+    <img src="https://img.shields.io/badge/dys1128@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
