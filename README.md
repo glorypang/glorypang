@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <!--내용 부분-->
-<p>A double major in natural science and computer engineering
+<p align ="center">A double major in natural science and computer engineering
 Development and Growth Diary
 
 💻Developer</p>
