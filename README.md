@@ -70,7 +70,10 @@
   </a>
 </p>
 
-
+[![Solved.ac프로필]
+(http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})]
+![](https://velog.velcdn.com/images/pexe99/post/11b39a55-7693-4a77-afa3-9b197fc070e9/image.png)
+(https://solved.ac/dys1128)
 
 
 
