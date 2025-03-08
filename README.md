@@ -86,11 +86,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/dys1128/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=10&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF&hide_border=False" />
+    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=transparent&count_private=true&custom_title=Glory's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=1800" />
+  </a>
+  
+  <a href="https://github.com/dys1128/github-readme-stats">
+    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=10&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF&hide_border=False" />
   </a>
 </div>
-
-![Eungyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=transparent&count_private=true&custom_title=Glory's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=1800)
 
