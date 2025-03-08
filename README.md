@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="left"><b>✨ Tech Stack ✨</b></h3>
+<h4 align="left"><b>✨ Tech Stack ✨</b></h4>
 
 ### 🔹 Frontend
 <p align="left">
@@ -41,7 +41,7 @@
 </p>
 
 
-<h3 align="left"><b>🛠 Tools 🛠</b></h3>
+<h4 align="left"><b>🛠 Tools 🛠</b></h4>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -56,9 +56,9 @@
 
 ---
 
-<h3 align="center"><b>📫 Contact 📫</b></h3>
+<h4 align="left"><b>📫 Contact 📫</b></h4>
 
-<p align="center">
+<p align="leftr">
   <a href="https://glorypang.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
@@ -66,6 +66,10 @@
     <img src="https://img.shields.io/badge/dys1128@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+<h4 align= "left>📌 About me 📌</h4>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dys1128)](https://solved.ac/dys1128)
