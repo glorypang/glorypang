@@ -59,9 +59,7 @@
 <h3 align="left"><b>📫 Contact 📫</b></h3>
 
 <p align="left">
-  <a href="https://github.com/dys1128/dys1128">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdys1128%2Fhit-counter&count_bg=%2365F4EB&title_bg=%23AAA6A6&icon=&icon_color=%23D65858&title=hits&edge_flat=false" style="margin-left: 10px; vertical-align: middle;" />
-  </a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdys1128%2Fdys1128&count_bg=%23333131&title_bg=%23333131&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
   <a href="https://www.instagram.com/glorypang_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
