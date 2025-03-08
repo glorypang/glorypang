@@ -8,6 +8,8 @@
 </p>
 
 <!-- GitHub Stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dys128&show_icons=true&theme=transparent&count_private=true&custom_title=Glory's GitHub Stats&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF)
+
 <p align="center">
  <img src="https://dys1128-git-main-dys1128s-projects.vercel.app/api?username=dys1128&show_icons=true&theme=transparent&count_private=true&custom_title=Glory's GitHub Stats&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF" />
 
