@@ -88,13 +88,13 @@ Here are some ideas to get you started:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=transport&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)"
+    srcset="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=transparent&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=transparent&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=transparent&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF" />
 </picture>
 
