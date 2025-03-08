@@ -69,10 +69,19 @@
 
 ---
 
-<h4 align= "left">📌 About me 📌</h4> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdys1128%2Fhit-counter&count_bg=%2365F4EB&title_bg=%23AAA6A6&icon=&icon_color=%23D65858&title=hits&edge_flat=false"/></a>
+<!-- About Me + Hits 배지 (한 줄 배치) -->
+<h4 align="left" style="display: inline;">📌 About me 📌</h4> 
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdys1128%2Fhit-counter&count_bg=%2365F4EB&title_bg=%23AAA6A6&icon=&icon_color=%23D65858&title=hits&edge_flat=false" style="margin-left: 10px; vertical-align: middle;" />
+</a>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dys1128)](https://solved.ac/dys1128)
+<!-- Solved.ac 프로필 중앙 정렬 -->
+<p align="center">
+  <a href="https://solved.ac/dys1128">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dys1128" />
+  </a>
+</p>
+
 
 
 
