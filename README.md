@@ -55,41 +55,18 @@
 
 ---
 
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
-
-</div>
-
-
-<div align="center">
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
-
-<br>
-
 <h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://glorypang.tistory.com/" text-decoration-line:none>
-    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />&nbsp
+
+<p align="center">
+  <a href="https://glorypang.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/dys1128@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  <a href="dys1128@naver.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
 
-<div align="right">
-  <a href="https://github.com/dys1128/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=10&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF&hide_border=False" />
-  </a>
-</div>
 
 
 
