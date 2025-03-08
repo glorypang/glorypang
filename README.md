@@ -91,4 +91,5 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=10&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF&hide_border=False" />
   </a>
 </div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dys1128@&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF)
 
