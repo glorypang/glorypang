@@ -8,7 +8,9 @@
 </p>
 
 <!-- GitHub Stats -->
-https://github-readme-stats.vercel.app/api?username=dys1128)&hide=stars,contribs&count_private=true&show_icons=true&&theme=swift)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dys1128)&hde=stars, contrib&count_private=true&show)icons=true&&theme=swift(https://github.com/dys1128/github-readme-stats)
+
+
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=8&theme=transparent&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF" />
 </p>
