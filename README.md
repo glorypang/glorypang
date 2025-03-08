@@ -1,5 +1,5 @@
-<div align="center"></div>
-## Hi I'm Glory 👋
+<div align="center">## Hi I'm Glory 👋
+</div>
 
 <!--
 **dys1128/dys1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
