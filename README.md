@@ -59,6 +59,9 @@
 <h4 align="left"><b>📫 Contact 📫</b></h4>
 
 <p align="leftr">
+  <a href="https://www.instagram.com/glorypang_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
   <a href="https://glorypang.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
