@@ -69,7 +69,7 @@
 
 ---
 
-<h4 align= "left">📌 About me 📌</h4>
+<h4 align= "left">📌 About me 📌</h4> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdys1128%2Fhit-counter&count_bg=%2365F4EB&title_bg=%23AAA6A6&icon=&icon_color=%23D65858&title=hits&edge_flat=false"/></a>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dys1128)](https://solved.ac/dys1128)
