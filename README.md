@@ -70,11 +70,13 @@
 ---
 
 <!-- About Me + Hits 배지 (한 줄 배치) -->
-<h4 align="left" style="display: inline;">📌 About me 📌</h4> 
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdys1128%2Fhit-counter&count_bg=%2365F4EB&title_bg=%23AAA6A6&icon=&icon_color=%23D65858&title=hits&edge_flat=false" style="margin-left: 10px; vertical-align: middle;" />
-</a>
-
+<!-- About Me + Hits 배지 (가로 정렬) -->
+<p align="left">
+  <span style="font-size: 18px; font-weight: bold;">📌 About me 📌</span>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdys1128%2Fhit-counter&count_bg=%2365F4EB&title_bg=%23AAA6A6&icon=&icon_color=%23D65858&title=hits&edge_flat=false" style="margin-left: 10px; vertical-align: middle;" />
+  </a>
+</p>
 <!-- Solved.ac 프로필 중앙 정렬 -->
 <p align="center">
   <a href="https://solved.ac/dys1128">
