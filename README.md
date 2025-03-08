@@ -86,13 +86,19 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/dys1128/github-readme-stats">
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=transparent&count_private=true&custom_title=Glory's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=1800" />
-  </a>
-  
-  <a href="https://github.com/dys1128/github-readme-stats">
-    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=10&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF&hide_border=False" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <a href="https://github.com/dys1128/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=transparent&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=1800" width="90%" />
+      </a>
+    </td>
+    <td align="right" width="50%" valign="bottom">
+      <a href="https://github.com/dys1128/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=10&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF&hide_border=False" width="90%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
