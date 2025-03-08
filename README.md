@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 <div align="right">
   <a href="https://github.com/dys1128/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=10&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff&hide_border=False" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=10&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF&hide_border=False" />
   </a>
 </div>
 
