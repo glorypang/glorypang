@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=graywhite" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=8&theme=transparent&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF" />
 </p>
 
 ---
@@ -41,7 +40,9 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=8&theme=transparent&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF" />
+</p>
 ---
 
 <h3 align="center">🛠 Tools 🛠</h3>
