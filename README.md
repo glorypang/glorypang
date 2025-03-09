@@ -19,15 +19,10 @@
 
 
 
-
- <b>🎈 Glory.instagram 🎈 <b> <br>
-  <a href="https://www.instagram.com/glorypang_/">www.instagram.com/glorypang_</a><br>
-
-  <b>🎈 Glory's Tistory 🎈 <b> <br>
-  <a href="https://glorypang.tistory.com/">www.glorypang.tistory.com</a>
-
-  <b> ✉️ Glory's Email  <b> <br>
-  <a>dys1128@naver.com</a>
+### 🌎 **Find Me**
+🎈 **Instagram:** [www.instagram.com/glorypang_](https://www.instagram.com/glorypang_/) <br>
+📖 **Tistory:** [www.glorypang.tistory.com](https://glorypang.tistory.com/) <br>
+📧 **Email:** dys1128@naver.com <br>
 
 
 <br>
@@ -38,13 +33,7 @@
 </p>
 
 
-
-
-
-
 <h3 align="left"><b>I'm Studying 💻 </b></h3>
-
-
 
 <p align="left">
 <img  src="https://img.shields.io/badge/React-20232a.svg?style=plastic&logo=react&logoColor=61DAFB" />
@@ -66,60 +55,41 @@
   <img src="https://img.shields.io/badge/VS Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<br>
+<br><br>
 
 
-
-
-<h3 align="left"><b>Experience  <br> </b></h3>
 
 ##
 
+
+### 🏆 **Experience**
 <ul>
-  <li> (2025.02 ~ )<b>교내 과 동창회장</b> 1기 </li>
-  <li> (2024.01 ~ 2024.12) <b>교내 모빌리티동아리 크누 모빌리티</b> 2기 </li>
-  <li> (2023.09 ~ 2024.07) <b>교내 국제외교동아리 UNSA</b> 1기 </li>
-  <li> (2023.01 ~ 2023.12) <b>교내 과학생회 기획부장</b> 12기 </li>
-  <li> (2022.01 ~ 2022.12) <b>교내 과학생회 복협부장</b> 11기 </li>
-  <li> (2019.01 ~ 2019.12) <b>교내 과학생회 기획차장</b> 8기 </li>
+  <li> (2025.02 ~ ) <b>교내 과 동창회장</b> - 1기 </li>
+  <li> (2024.01 ~ 2024.12) <b>교내 모빌리티동아리 크누 모빌리티</b> - 2기 </li>
+  <li> (2023.09 ~ 2024.07) <b>교내 국제외교동아리 UNSA</b> - 1기 </li>
+  <li> (2023.01 ~ 2023.12) <b>교내 과학생회 기획부장</b> - 12기 </li>
+  <li> (2022.01 ~ 2022.12) <b>교내 과학생회 복협부장</b> - 11기 </li>
+  <li> (2019.01 ~ 2019.12) <b>교내 과학생회 기획차장</b> - 8기 </li>
 </ul>
 
 <br>
-<h3 align="left"><b>Certificates  <br> </b></h3>
 
 ##
 
+### 📜 **Certificates**
 <ul>
-  <li> 2024.09 <span style="font-weight: bold;">SQL 개발자(SQLD)</span> - 한국데이터산업진흥원 </li>
-  <li> 2024.12 <span style="font-weight: bold;">네트워크관리사2급</span> - 한국정보통신자격협회 </li>
-  <li> 2024.12 <span style="font-weight: bold;">정보처리기사</span> - 한국산업인력공단 </li>
+  <li>  2024.09 <b>SQL 개발자(SQLD)</b> - 한국데이터산업진흥원 </li>
+  <li>  2024.12 <b>네트워크관리사2급</b> - 한국정보통신자격협회 </li>
+  <li>  2024.12 <b>정보처리기사</b> - 한국산업인력공단 </li>
 </ul>
 
 <br>
-<h3 align="left"><b>Project  <br> </b></h3>
 
 ##
 
-
-|출시|프로젝트|소개|바로가기|
-|:-----------------:|:-------------------------------|:----|:---:|
-| 2024.12 | 🗺 교내 최단거리 찾기 | 교내 건물들 간 최단 거리 비교 알고리즘|  |
-| 2024.08 | 🚗 타이어 결함 분석| 타이어 결함 찾기 |  |
-| 2024.06 | 🏝 여행지 추천 사이트  | 혼행자들을 위한 여행지 추천 |  |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 🔥 **Projects**
+| **출시** | **프로젝트** | **소개** |  **바로가기** |
+|:-----------------:|:-------------------------------|:----------------------------------|:---:|
+| 2024.12 | 🗺 **교내 최단거리 찾기** | 교내 건물들 간 최단 거리 비교 알고리즘 | [🔗](#) |
+| 2024.08 | 🔍 **타이어 결함 분석** | 타이어 결함 찾기 | [🔗](#) |
+| 2024.06 | 🏝 **여행지 추천 사이트** | 혼행자들을 위한 여행지 추천 | [🔗](#) |
