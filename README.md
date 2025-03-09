@@ -63,6 +63,18 @@
 
 <hr style="width: 30%; border: 1px solid black; margin-left: 0;">
 
+<details>
+<summary><b>Certificates</b></summary>
+
+<ul>
+  <li> 2024.09 <b>SQL 개발자(SQLD)</b> - 한국데이터산업진흥원 </li>
+</ul>
+
+
+</details>
+
+<br>
+
 
 <details>
 <summary><b>Project</b></summary>
