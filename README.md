@@ -32,7 +32,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=8&theme=transparent&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF" width="40%" />
 </p>
 
-<br>
 <h3 align="left"><b>I'm Studying 💻 </b></h3>
 
 
