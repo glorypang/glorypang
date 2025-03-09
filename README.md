@@ -81,7 +81,7 @@
 <!-- Solved.ac 프로필 중앙 정렬 -->
 <p align="center">
   <a href="https://solved.ac/dys1128">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj==dys1128" />
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dys1128" />
   </a>
 </p>
 
