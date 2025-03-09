@@ -2,7 +2,7 @@
 
 
 
-<p >  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=graywhite"  width="60%" />
+<p >  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=graywhite"  width="50%" />
 </p>
 
 <h3 align="center"><b>🐢 Glory 🐰 <br> </b></h3>
