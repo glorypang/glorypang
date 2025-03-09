@@ -1,6 +1,7 @@
 
 <!-- 타이틀 부분 -->
 <p align="center">
+  🐢<H3>**Glory**<H3>🐰
   🌊 Double Major in Oceanography & Computer Science<br>
   📖 Development & Growth Diary<br>
   💻 Software Developer
