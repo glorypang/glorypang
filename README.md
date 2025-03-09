@@ -26,6 +26,9 @@
   <b>🎈 Glory's Tistory 🎈 <b> <br>
   <a href="https://glorypang.tistory.com/">www.glorypang.tistory.com</a>
 
+  <b> ✉️ Glory's Email  <b> <br>
+  <a>dys1128@naver.com</a>
+
 <br><br>
 <hr style="width: 30%; border: 1px solid black; margin-left: 0;">
 
