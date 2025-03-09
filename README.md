@@ -25,7 +25,7 @@
 📧 **Email:** dys1128@naver.com <br>
 
 
-<br>
+<br><br>
 <hr style="width: 30%; border: 1px solid black; margin-left: 0;">
 
 <p>
