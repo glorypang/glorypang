@@ -63,6 +63,53 @@
 
 <hr style="width: 30%; border: 1px solid black; margin-left: 0;">
 
+<details>
+  <summary><b>Activity</b></summary>
+<table>
+  <thead>
+    <tr>
+      <th align="center">기간</th>
+      <th align="right">활동</th>
+      <th align="left">기수</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">2025.02 ~</td>
+      <td align="right">교내 과 동창회장</td>
+      <td align="left">1기</td>
+    </tr>
+    <tr>
+      <td align="center">2024.01 ~ 2024.12</td>
+      <td align="right">교내 모빌리티동아리 <b>크누 모빌리티</b></td>
+      <td align="left">2기</td>
+    </tr>
+    <tr>
+      <td align="center">2023.09 ~ 2024.07</td>
+      <td align="right">교내 국제외교동아리 <b>UNSA</b></td>
+      <td align="left">1기</td>
+    </tr>
+    <tr>
+      <td align="center">2023.01 ~ 2023.12</td>
+      <td align="right">교내 과학생회 기획부장</td>
+      <td align="left">12</td>
+    </tr>
+    <tr>
+      <td align="center">2022.01 ~ 2022.12</td>
+      <td align="right">교내 과학생회 복협부장</td>
+      <td align="left">11기</td>
+    </tr>
+    <tr>
+      <td align="center">2019.01 ~ 2019.12</td>
+      <td align="right">교내 과학생회 기획차장</td>
+      <td align="left">8대</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+
+
+
 
 
 
