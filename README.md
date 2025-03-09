@@ -3,7 +3,7 @@
 <table>
   <tr>
     <!-- 왼쪽: 타이틀 & 소개 -->
-    <td width="60%" align="left">
+    <td width="40%" align="left">
       <h3>🐢Glory🐰</h3>
       <a href="https://hits.seeyoufarm.com">
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdys1128%2Fdys1128&count_bg=%23333131&title_bg=%23333131&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/>
@@ -12,7 +12,9 @@
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dys1128" />
       </a>
       <br><br>
+      
       ---
+      
       <br>
       🔥 <strong>Glory</strong> 🔥<br>
       📸 <a href="https://www.instagram.com/glorypang_/">Instagram</a> <br>
@@ -20,7 +22,7 @@
     </td>
 
     <!-- 오른쪽: GitHub Stats -->
-    <td width="40%" align="right">
+    <td width="60%" align="right">
       <img src="https://github-readme-stats.vercel.app/api?username=dys1128" />
     </td>
   </tr>
