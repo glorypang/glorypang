@@ -19,10 +19,10 @@
 ##
 
  <b>🎈 Glory.instagram <b>
-  <a href="https://www.instagram.com/glorypang_/">https://www.instagram.com/glorypang_/</a><br>
+  <a href="https://www.instagram.com/glorypang_/">www.instagram.com/glorypang_</a><br>
 
   <b>🎈 Glory's Tistory</b>
-  <a href="https://glorypang.tistory.com/">https://glorypang.tistory.com/</a>
+  <a href="https://glorypang.tistory.com/">www.glorypang.tistory.com</a>
 
 <br>
 
