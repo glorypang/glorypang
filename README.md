@@ -34,8 +34,8 @@
 
     <!-- 오른쪽: GitHub Stats -->
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=graywhite" />
-    </td>
+<img src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=graywhite" />    
+</td>
   </tr>
 </table>
 
