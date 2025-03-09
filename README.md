@@ -1,10 +1,5 @@
 
 
-
-
-<p >  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=graywhite"  width="55%"/>
-</p>
-
 <h3 align="center"><b>🐢 Glory 🐰 <br> </b></h3>
 <p align="center"> 
   <a href="https://hits.seeyoufarm.com">
@@ -15,8 +10,15 @@
   </a>
 </p>
 
-
 ##
+
+<p > <img align="right" src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=graywhite"  width="50%"/>
+</p>
+
+
+
+
+
 
  <b>🎈 Glory.instagram 🎈 <b> <br>
   <a href="https://www.instagram.com/glorypang_/">www.instagram.com/glorypang_</a><br>
@@ -24,8 +26,7 @@
   <b>🎈 Glory's Tistory 🎈 <b> <br>
   <a href="https://glorypang.tistory.com/">www.glorypang.tistory.com</a>
 
-<br>
-
+<br><br>
 <hr style="width: 30%; border: 1px solid black; margin-left: 0;">
 
 <p>
