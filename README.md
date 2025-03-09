@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/VS Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<br><br><br>
+<br><br>
 
 <img src="https://github.com/glorypang/glorypang/blob/output/github-contribution-grid-snake.svg"/>
 
