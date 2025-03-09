@@ -2,7 +2,7 @@
 
 
 
-<p >  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=graywhite"  width="50%" />
+<p >  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=graywhite"  width="60%" />
 </p>
 
 <h3 align="center"><b>🐢 Glory 🐰 <br> </b></h3>
@@ -18,10 +18,10 @@
 
 ##
 
- <b>🎈 Glory.instagram <b>
+ <b>🎈 Glory.instagram 🎈 <b> <br>
   <a href="https://www.instagram.com/glorypang_/">www.instagram.com/glorypang_</a><br>
 
-  <b>🎈 Glory's Tistory</b>
+  <b>🎈 Glory's Tistory 🎈 <b> <br>
   <a href="https://glorypang.tistory.com/">www.glorypang.tistory.com</a>
 
 <br>
