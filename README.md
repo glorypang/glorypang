@@ -63,6 +63,22 @@
 
 <hr style="width: 30%; border: 1px solid black; margin-left: 0;">
 
+
+<details>
+<summary><b>Project</b></summary>
+  
+|출시|프로젝트|소개|바로가기|
+|:-----------------:|-------------------------------:|:----|
+| 2024.12 | 🗺 교내 최단거리 찾기 | 교내 건물들 간 최단 거리 비교 알고리즘|  |
+| 2024.08 | 🚗 타이어 결함 분석| 타이어 결함 찾기 |  |
+| 2024.06 | 🏝 여행지 추천 사이트  | 혼행자들을 위한 여행지 추천 |  |
+
+
+
+</details>
+
+<br>
+
 <details>
 <summary><b>Activity</b></summary>
   
