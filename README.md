@@ -29,7 +29,6 @@
   <b> ✉️ Glory's Email  <b> <br>
   <a>dys1128@naver.com</a>
 
-<br>
 <hr style="width: 30%; border: 1px solid black; margin-left: 0;">
 
 <p>
