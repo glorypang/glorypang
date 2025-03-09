@@ -29,11 +29,18 @@
   <b> ✉️ Glory's Email  <b> <br>
   <a>dys1128@naver.com</a>
 
+
+<br>
 <hr style="width: 30%; border: 1px solid black; margin-left: 0;">
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=8&theme=transparent&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF" width="40%" />
 </p>
+
+
+
+
+
 
 <h3 align="left"><b>I'm Studying 💻 </b></h3>
 
@@ -60,16 +67,18 @@
 </p>
 
 <br>
+<br>
 
-<hr style="width: 30%; border: 1px solid black; margin-left: 0;">
+##
+
 
 <details>
 <summary><b>Certificates</b></summary>
 
 <ul>
-  <li> 2024.09 <b>SQL 개발자(SQLD)</b> - 한국데이터산업진흥원 </li>
-  <li> 2024.12 <b>네트워크관리사2급</b> - 한국정보통신자격협회 </li>
-  <li> 2024.12 <b>정보처리기사</b> - 한국산업인력공단 </li>
+  <li> 2024.09 <span style="font-weight: bold;">SQL 개발자(SQLD)</span> - 한국데이터산업진흥원 </li>
+  <li> 2024.12 <span style="font-weight: bold;">네트워크관리사2급</span> - 한국정보통신자격협회 </li>
+  <li> 2024.12 <span style="font-weight: bold;">정보처리기사</span> - 한국산업인력공단 </li>
 </ul>
 
 
