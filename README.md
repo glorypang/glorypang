@@ -1,4 +1,3 @@
-## Hi I'm Glory 👋
 
 <!-- 타이틀 부분 -->
 <p align="center">
@@ -82,7 +81,7 @@
 <!-- Solved.ac 프로필 중앙 정렬 -->
 <p align="center">
   <a href="https://solved.ac/dys1128">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dys1128" />
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj==dys1128" />
   </a>
 </p>
 
