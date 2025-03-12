@@ -12,7 +12,8 @@
 
 ##
 
-<p > <img align="right" src="https://github-readme-stats.vercel.app/api?username=dys1128&show_icons=true&theme=graywhite"  width="50%"/>
+<p > 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=glorypang&show_icons=true&theme=graywhite" width="50%"/>
 </p>
 
 
@@ -29,7 +30,7 @@
 <hr style="width: 30%; border: 1px solid black; margin-left: 0;">
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dys1128&layout=compact&langs_count=8&theme=transparent&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=FFFFFF&text_color=FFFFFF" width="40%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glorypang&layout=compact&langs_count=8&theme=transparent" width="40%"/>
 </p>
 
 
