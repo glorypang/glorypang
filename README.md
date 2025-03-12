@@ -56,7 +56,6 @@
   <img src="https://img.shields.io/badge/VS Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<br>
 
 <img src="https://github.com/glorypang/glorypang/blob/output/github-contribution-grid-snake.svg"/>
 
@@ -74,7 +73,6 @@
   <li> (2019.01 ~ 2019.12) 교내 과학생회 기획차장 - 8기 </li>
 </ul>
 
-<br>
 
 ##
 
@@ -85,7 +83,6 @@
   <li>  2024.12 <b>정보처리기사</b> - 한국산업인력공단 </li>
 </ul>
 
-<br>
 
 ##
 
